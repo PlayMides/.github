@@ -1,4 +1,4 @@
 ## Hi there 👋, Welcome to Mides Development's Repository
 
 Mides Projects Development Team
-- Githalt, Kohi, Reboting, Immutabled, Lean, Jaime
+- Githalt, Kohi, Reboting, Immutabled and Jaime
