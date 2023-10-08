@@ -8,7 +8,6 @@ team dedicated to creating innovative and high-quality projects.
 ### Project Owner
 - **Immutabled** (immutabled)
 - **Kohi** (kohilounges)
-- **Sprite** (cirool)
 ### Project Contributor
 - **NulledCode** (nulledcode)
 - **Speir** (.speir)
